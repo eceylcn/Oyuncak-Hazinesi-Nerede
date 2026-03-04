@@ -6,6 +6,7 @@
 
 📄 For the full project report (including screenshots, activities, and evaluation data), see [ProjectReport.pdf](./ProjectReport.pdf).
 
+> Developed and evaluated between May 2023 – June 2025.
 ---
 
 ## Quick Overview
